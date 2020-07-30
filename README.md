@@ -22,12 +22,21 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Animated Product Page with Vue Directive](https://www.youtube.com/watch?v=x__aHTNyu6E)
+- [Animated Product Page with Vue](https://www.youtube.com/watch?v=shmZ9BLRD8o)
+- [Animated Navigation with Vue](https://www.youtube.com/watch?v=P2axU4drFtw)
+- [I open-sourced my Dev Blog](https://www.youtube.com/watch?v=vs56AaE-xEs)
+- [Nuxt JS - Distinct Layouts](https://www.youtube.com/watch?v=xh_OrVwgh4M)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn your Vue Web App into a PWA](https://webnoob.dev/articles/turn-your-vue-web-app-into-a-pwa)
+- [Best way to organize files in Vue](https://webnoob.dev/articles/best-way-to-organize-files-in-vue)
+- [Getting started with Nuxt.js](https://webnoob.dev/articles/getting-started-with-nuxt)
+- [I'm open sourcing my Nuxt.js blog](https://webnoob.dev/articles/open-sourcing-nuxt-blog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
