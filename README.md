@@ -21,6 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Animated Product Page with Vue Directive](https://www.youtube.com/watch?v=x__aHTNyu6E)
+- [Animated Product Page with Vue](https://www.youtube.com/watch?v=shmZ9BLRD8o)
+- [Animated Navigation with Vue](https://www.youtube.com/watch?v=P2axU4drFtw)
+- [I open-sourced my Dev Blog](https://www.youtube.com/watch?v=vs56AaE-xEs)
+- [Nuxt JS - Distinct Layouts](https://www.youtube.com/watch?v=xh_OrVwgh4M)
 <!-- YOUTUBE:END -->
 
 ---
