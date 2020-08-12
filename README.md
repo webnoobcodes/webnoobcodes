@@ -13,7 +13,6 @@
 [<img align="left" alt="webnoob | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="webnoob | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="webnoob | BuyMeACoffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/buymeacoffee.svg" />][buymeacoffee]
-[<img align="left" alt="webnoob | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/patreon.svg" />][patreon]
 
 <br />
 <br />
@@ -49,4 +48,3 @@
 [youtube]: https://youtube.com/webnoob
 [instagram]: https://instagram.com/webnoobcodes
 [buymeacoffee]: https://www.buymeacoffee.com/webnoob
-[patreon]: https://www.patreon.com/webnoob
