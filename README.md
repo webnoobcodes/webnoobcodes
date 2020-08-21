@@ -21,11 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to create a Animated Sidebar Menu (Vue.js)](https://www.youtube.com/watch?v=2Mi7GutmeZs)
 - [How to Create a Loading Animation for Website (Vue.js)](https://www.youtube.com/watch?v=iCk22ADjQPU)
 - [Vue.js Filters](https://www.youtube.com/watch?v=VmaNYKNmRq8)
 - [Animated Product Page with Vue Directive](https://www.youtube.com/watch?v=x__aHTNyu6E)
 - [Animated Product Page with Vue](https://www.youtube.com/watch?v=shmZ9BLRD8o)
-- [Animated Navigation with Vue](https://www.youtube.com/watch?v=P2axU4drFtw)
 <!-- YOUTUBE:END -->
 
 ---
