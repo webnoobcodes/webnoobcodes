@@ -21,11 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Vue 3 Getting Started](https://www.youtube.com/watch?v=fZStE3DpFes)
 - [Tags Input Field (Vue.js)](https://www.youtube.com/watch?v=EXUBU0EgJ7M)
 - [How to create a Animated Sidebar Menu (Vue.js)](https://www.youtube.com/watch?v=2Mi7GutmeZs)
 - [How to Create a Loading Animation for Website (Vue.js)](https://www.youtube.com/watch?v=iCk22ADjQPU)
 - [Vue.js Filters](https://www.youtube.com/watch?v=VmaNYKNmRq8)
-- [Animated Product Page with Vue Directive](https://www.youtube.com/watch?v=x__aHTNyu6E)
 <!-- YOUTUBE:END -->
 
 ---
