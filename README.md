@@ -21,11 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to use Portals in Vue 3](https://www.youtube.com/watch?v=rKgW0OiyLBs)
 - [How to Upgrade Vue 2 to Vue 3](https://www.youtube.com/watch?v=yO3XPzqklvE)
 - [Vue 3 Getting Started](https://www.youtube.com/watch?v=fZStE3DpFes)
 - [Tags Input Field (Vue.js)](https://www.youtube.com/watch?v=EXUBU0EgJ7M)
 - [How to create a Animated Sidebar Menu (Vue.js)](https://www.youtube.com/watch?v=2Mi7GutmeZs)
-- [How to Create a Loading Animation for Website (Vue.js)](https://www.youtube.com/watch?v=iCk22ADjQPU)
 <!-- YOUTUBE:END -->
 
 ---
