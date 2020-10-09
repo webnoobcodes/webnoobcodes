@@ -21,11 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Composable Logic in Vue 3](https://www.youtube.com/watch?v=Io55R9rvlQM)
 - [Vue 3 Reactive vs Ref](https://www.youtube.com/watch?v=irpy9PX3jkU)
 - [First Look at the Composition API](https://www.youtube.com/watch?v=6Uu-wQNZwXA)
 - [How to use Portals in Vue 3](https://www.youtube.com/watch?v=rKgW0OiyLBs)
 - [How to Upgrade Vue 2 to Vue 3](https://www.youtube.com/watch?v=yO3XPzqklvE)
-- [Vue 3 Getting Started](https://www.youtube.com/watch?v=fZStE3DpFes)
 <!-- YOUTUBE:END -->
 
 ---
